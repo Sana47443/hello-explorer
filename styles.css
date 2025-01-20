@@ -59,18 +59,12 @@ body {
   
   a .earth {
     fill: #aaa;
-    box-shadow: 0 0 10px rgba(170, 170, 170, 0.5); 
-    position: absolute;
-    top: 0 px;
-    left: 100px;
+    box-shadow: 0 0 10px rgba(170, 170, 170, 0.5);
   } 
   
   
   a .moon {
     fill: #aaa;
-    box-shadow: 0 0 10px rgba(170, 170, 170, 0.5); 
-    position: absolute;
-    top: 50px; 
-    left: 450px; 
+    box-shadow: 0 0 10px rgba(170, 170, 170, 0.5);
   } 
   
